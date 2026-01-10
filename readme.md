@@ -1,5 +1,5 @@
 ## Welcome to Git!
 
-Im adding this from `feature-branch`
-
+- Yo, John White here!
 - This added from `dev-adrian`
+- Im adding this from `feature-branch`
