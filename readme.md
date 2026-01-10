@@ -1,5 +1,5 @@
-## Heyoo everyone, welcome to my git guid
+## Welcome to Git!
 
-Im adding this from `feature-branch`
-
-- Edit from `dev-jsm`
+- Yo, John White here!
+- This added from `dev-adrian`
+- Im adding this from `feature-branch`
